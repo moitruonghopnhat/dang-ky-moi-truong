@@ -23,9 +23,9 @@
 
 ## 1. Tổng quan
 
-Trong bối cảnh các quy định pháp luật về bảo vệ môi trường ngày càng được hoàn thiện và thủ tục hành chính tiếp tục được đơn giản hóa, việc thực hiện **đăng ký môi trường** cũng có nhiều thay đổi đáng chú ý.
+Trong bối cảnh các quy định pháp luật về bảo vệ môi trường ngày càng được hoàn thiện và thủ tục hành chính tiếp tục được đơn giản hóa, việc thực hiện đăng ký môi trường cũng có nhiều thay đổi đáng chú ý.
 
-Theo nội dung tài liệu gốc, **Nghị quyết số 66.19/2026/NQ-CP** có điều chỉnh một số nội dung liên quan đến thẩm quyền và thủ tục đăng ký môi trường nhằm tạo điều kiện thuận lợi hơn cho doanh nghiệp.
+Đặc biêt là Nghị quyết số 66.19/2026/NQ-CP có điều chỉnh một số nội dung liên quan đến thẩm quyền và thủ tục đăng ký môi trường nhằm tạo điều kiện thuận lợi hơn cho doanh nghiệp.
 
 Tài liệu này tổng hợp các nội dung trọng tâm liên quan đến:
 
