@@ -284,8 +284,3 @@ Nếu doanh nghiệp cần tư vấn về **đăng ký môi trường** hoặc c
 - **Zalo:** [Nhắn tin tư vấn](https://zalo.me/0938857768)
 - **Điện thoại:** [0938.857.768](tel:0938857768)
 
----
-
-### Hợp Nhất đồng hành cùng doanh nghiệp trong quá trình thực hiện thủ tục môi trường
-
-Mục tiêu của tài liệu là giúp doanh nghiệp nhanh chóng nắm được các nội dung cốt lõi liên quan đến đăng ký môi trường, từ đó chủ động chuẩn bị hồ sơ và phối hợp với đơn vị tư vấn khi cần thiết.
