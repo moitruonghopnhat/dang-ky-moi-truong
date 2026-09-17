@@ -253,7 +253,7 @@ Bài viết này có tham khảo tài liệu như sau:
 
 ## 11. Lưu ý khi áp dụng
 
-> [!CAUTION]
+> [Lưu ý]
 > Các thông tin pháp lý chỉ mang tính chất tham khảo. Khi áp dụng cho hồ sơ thực tế, cần kiểm tra hiệu lực của từng văn bản quy phạm pháp luật, điều khoản liên quan và các quy định đang có hiệu lực tại thời điểm thực hiện.
 
 Mỗi dự án/cơ sở có thể có đặc điểm khác nhau về:
