@@ -136,7 +136,7 @@ Luật có hiệu lực từ **01/01/2022** và nêu thời hạn cuối là **3
 
 ## 6. Nội dung đăng ký môi trường
 
-Theo **Khoản 4, Điều 49, Luật Bảo vệ môi trường 2020**, nội dung đăng ký môi trường được tài liệu tổng hợp gồm:
+Theo **Khoản 4, Điều 49, Luật Bảo vệ môi trường 2020**, nội dung đăng ký môi trường gồm:
 
 - Thông tin chung về dự án đầu tư hoặc cơ sở.
 - Loại hình sản xuất, kinh doanh, dịch vụ.
@@ -208,7 +208,7 @@ Các nội dung chính:
 
 **Công ty Môi Trường Hợp Nhất** cung cấp dịch vụ tư vấn và hỗ trợ thực hiện các thủ tục môi trường.
 
-Đối với hồ sơ **đăng ký môi trường**, theo nội dung tài liệu gốc, sau khi khách hàng cung cấp đầy đủ thông tin và giấy tờ pháp lý cần thiết, Hợp Nhất sẽ triển khai:
+Đối với hồ sơ **đăng ký môi trường**, sau khi khách hàng cung cấp đầy đủ thông tin và giấy tờ pháp lý cần thiết, Hợp Nhất sẽ triển khai:
 
 - Tiếp nhận và rà soát thông tin của dự án/cơ sở.
 - Xác định nhóm hồ sơ cần thực hiện.
@@ -230,7 +230,7 @@ Website: [https://moitruonghopnhat.com/](https://moitruonghopnhat.com/)
 
 ## 10. Tài liệu tham khảo
 
-Tài liệu gốc sử dụng các nguồn tham khảo sau:
+Bài viết này có tham khảo tài liệu như sau:
 
 - Luật Bảo vệ môi trường 2020.
 - Nghị định 08/2022/NĐ-CP.
@@ -254,7 +254,7 @@ Tài liệu gốc sử dụng các nguồn tham khảo sau:
 ## 11. Lưu ý khi áp dụng
 
 > [!CAUTION]
-> Nội dung trong tài liệu này được chuyển đổi và biên tập từ file nguồn do Hợp Nhất cung cấp. Các thông tin pháp lý chỉ mang tính chất tham khảo. Khi áp dụng cho hồ sơ thực tế, cần kiểm tra hiệu lực của từng văn bản quy phạm pháp luật, điều khoản liên quan và các quy định đang có hiệu lực tại thời điểm thực hiện.
+> Các thông tin pháp lý chỉ mang tính chất tham khảo. Khi áp dụng cho hồ sơ thực tế, cần kiểm tra hiệu lực của từng văn bản quy phạm pháp luật, điều khoản liên quan và các quy định đang có hiệu lực tại thời điểm thực hiện.
 
 Mỗi dự án/cơ sở có thể có đặc điểm khác nhau về:
 
