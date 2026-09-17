@@ -113,7 +113,7 @@ Việc xác định cấp thực hiện phụ thuộc vào quy mô, công suất
 
 ## 5. Thời điểm phải đăng ký môi trường
 
-Theo **Khoản 6, Điều 49, Luật Bảo vệ môi trường 2020**, tài liệu gốc nêu các mốc thực hiện như sau:
+Theo **Khoản 6, Điều 49, Luật Bảo vệ môi trường 2020**
 
 ### Trường hợp 1: Dự án thuộc đối tượng lập ĐTM
 
