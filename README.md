@@ -27,7 +27,7 @@ Trong bối cảnh các quy định pháp luật về bảo vệ môi trường 
 
 Đặc biêt là Nghị quyết số 66.19/2026/NQ-CP có điều chỉnh một số nội dung liên quan đến thẩm quyền và thủ tục đăng ký môi trường nhằm tạo điều kiện thuận lợi hơn cho doanh nghiệp.
 
-Tài liệu này tổng hợp các nội dung trọng tâm liên quan đến:
+Trong nội dung này sẽ đề cập các thông tin chi tiết về:
 
 - Khái niệm đăng ký môi trường.
 - Căn cứ pháp lý áp dụng.
@@ -55,7 +55,7 @@ Hiểu một cách khái quát, đăng ký môi trường là thủ tục giúp 
 
 ## 3. Căn cứ pháp lý
 
-Theo tài liệu gốc, các văn bản được sử dụng làm căn cứ khi thực hiện hồ sơ đăng ký môi trường gồm:
+Các văn bản được sử dụng làm căn cứ khi thực hiện hồ sơ đăng ký môi trường gồm:
 
 1. **Luật Bảo vệ môi trường 2020**.
 2. **Nghị định 08/2022/NĐ-CP** quy định chi tiết một số điều của Luật Bảo vệ môi trường.
@@ -66,8 +66,8 @@ Theo tài liệu gốc, các văn bản được sử dụng làm căn cứ khi 
 7. **Thông tư 07/2025/TT-BTNMT** sửa đổi, bổ sung một số điều của Thông tư 02/2022/TT-BTNMT.
 8. **Nghị quyết số 66.19/2026/NQ-CP** về cắt giảm, phân quyền, đơn giản hóa thủ tục hành chính và cắt giảm, đơn giản hóa điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Nông nghiệp và Môi trường.
 
-> [!IMPORTANT]
-> Theo tài liệu gốc, kể từ ngày **18/05/2026**, khi Nghị quyết số **66.19/2026/NQ-CP** có hiệu lực, việc lập hồ sơ đăng ký môi trường cần căn cứ thêm vào các quy định của Nghị quyết này.
+> Lưu ý
+> Kể từ ngày 18/05/2026, khi Nghị quyết số **66.19/2026/NQ-CP** có hiệu lực, việc lập hồ sơ đăng ký môi trường cần căn cứ thêm vào các quy định của Nghị quyết này.
 
 ### Liên kết tham khảo
 
@@ -81,7 +81,7 @@ Theo tài liệu gốc, các văn bản được sử dụng làm căn cứ khi 
 
 ## 4. Đối tượng thực hiện đăng ký môi trường
 
-Theo nội dung trong tài liệu, hồ sơ đăng ký môi trường hiện được phân thành hai trường hợp:
+Hồ sơ đăng ký môi trường hiện được phân thành hai trường hợp:
 
 - **Đăng ký môi trường cấp tỉnh**.
 - **Đăng ký môi trường cấp xã**.
@@ -90,13 +90,11 @@ Việc xác định cấp thực hiện phụ thuộc vào quy mô, công suất
 
 ### 4.1. Đăng ký môi trường cấp tỉnh
 
-Theo tài liệu gốc:
 
 > Dự án đầu tư, cơ sở có phát sinh nước thải xả ra môi trường phải được xử lý với tổng lưu lượng từ **50 m³/ngày trở lên** hoặc phát sinh bụi, khí thải xả ra môi trường phải được xử lý với tổng lưu lượng từ **20.000 m³/giờ trở lên** thực hiện đăng ký môi trường tại **Ủy ban nhân dân cấp tỉnh**.
 
 ### 4.2. Đăng ký môi trường cấp xã
 
-Theo tài liệu gốc:
 
 > Dự án đầu tư, cơ sở có mức lưu lượng nước thải, khí thải xả ra môi trường phải được xử lý không thuộc trường hợp đăng ký môi trường cấp tỉnh thì thực hiện đăng ký môi trường tại **Ủy ban nhân dân cấp xã**.
 
@@ -130,9 +128,9 @@ Dự án đầu tư không thuộc đối tượng lập ĐTM phải đăng ký 
 
 ### Trường hợp 3: Cơ sở sản xuất, kinh doanh, dịch vụ đang hoạt động
 
-Theo tài liệu gốc, cơ sở thuộc trường hợp quy định tại điểm b khoản 1 Điều 49 phải đăng ký môi trường trong thời hạn **24 tháng kể từ ngày Luật Bảo vệ môi trường 2020 có hiệu lực**.
+Cơ sở thuộc trường hợp quy định tại điểm b khoản 1 Điều 49 phải đăng ký môi trường trong thời hạn **24 tháng kể từ ngày Luật Bảo vệ môi trường 2020 có hiệu lực**.
 
-Tài liệu gốc xác định Luật có hiệu lực từ **01/01/2022** và nêu thời hạn cuối là **31/12/2023**.
+Luật có hiệu lực từ **01/01/2022** và nêu thời hạn cuối là **31/12/2023**.
 
 ---
 
@@ -149,7 +147,7 @@ Theo **Khoản 4, Điều 49, Luật Bảo vệ môi trường 2020**, nội dun
 - Phương án thu gom, quản lý và xử lý chất thải.
 - Cam kết thực hiện công tác bảo vệ môi trường.
 
-Theo tài liệu gốc, nội dung đăng ký môi trường được triển khai theo:
+Nội dung đăng ký môi trường được triển khai theo:
 
 **Mẫu số 47, Phụ lục II, Thông tư 02/2022/TT-BTNMT**.
 
@@ -161,7 +159,7 @@ Tham khảo: [Mẫu số 47 – Phụ lục II](https://moitruonghopnhat.com/mau
 
 ### 7.1. Quy định trước đây
 
-Theo nội dung tài liệu, trước đây căn cứ Khoản 7 Điều 49 Luật Bảo vệ môi trường 2020, cơ quan tiếp nhận chủ yếu là **UBND cấp xã**.
+Trước đây căn cứ Khoản 7 Điều 49 Luật Bảo vệ môi trường 2020, cơ quan tiếp nhận chủ yếu là **UBND cấp xã**.
 
 UBND cấp xã có trách nhiệm:
 
@@ -178,7 +176,7 @@ Các hình thức tiếp nhận hồ sơ được nêu trong tài liệu gồm:
 
 ### 7.2. Quy định theo Nghị quyết số 66.19/2026/NQ-CP
 
-Theo tài liệu gốc, cơ quan tiếp nhận hồ sơ đăng ký môi trường hiện gồm:
+Cơ quan tiếp nhận hồ sơ đăng ký môi trường hiện gồm:
 
 - **Ủy ban nhân dân cấp tỉnh**; hoặc
 - **Ủy ban nhân dân cấp xã**.
@@ -191,14 +189,14 @@ Cấp tiếp nhận được xác định dựa trên quy mô, công suất ho�
 
 ### 8.1. Thành phần hồ sơ
 
-Theo tài liệu gốc, hồ sơ đăng ký môi trường gồm:
+Hồ sơ đăng ký môi trường gồm:
 
 1. **01 văn bản đăng ký môi trường** của chủ dự án đầu tư/cơ sở theo **Mẫu số 47, Phụ lục II, Thông tư 02/2022/TT-BTNMT**.
 2. **01 bản sao quyết định phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường**, trong trường hợp dự án/cơ sở đã có báo cáo ĐTM được phê duyệt theo quy định.
 
 ### 8.2. Điều kiện và trách nhiệm khi thực hiện
 
-Tài liệu gốc nêu các nội dung chính:
+Các nội dung chính:
 
 - Chủ dự án đầu tư/cơ sở gửi hồ sơ đăng ký môi trường đến cơ quan có thẩm quyền tương ứng.
 - Trong quá trình hoạt động, nếu có thay đổi về nội dung đã đăng ký, chủ dự án/cơ sở có trách nhiệm đăng ký môi trường lại trước khi thực hiện thay đổi.
