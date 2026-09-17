@@ -66,7 +66,7 @@ Các văn bản được sử dụng làm căn cứ khi thực hiện hồ sơ �
 7. **Thông tư 07/2025/TT-BTNMT** sửa đổi, bổ sung một số điều của Thông tư 02/2022/TT-BTNMT.
 8. **Nghị quyết số 66.19/2026/NQ-CP** về cắt giảm, phân quyền, đơn giản hóa thủ tục hành chính và cắt giảm, đơn giản hóa điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Nông nghiệp và Môi trường.
 
-> Lưu ý
+> **Lưu ý**
 > Kể từ ngày 18/05/2026, khi Nghị quyết số **66.19/2026/NQ-CP** có hiệu lực, việc lập hồ sơ đăng ký môi trường cần căn cứ thêm vào các quy định của Nghị quyết này.
 
 ### Liên kết tham khảo
